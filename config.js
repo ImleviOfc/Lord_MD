@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/lord_ammar_quoteser'
-global.sgh = 'https://github.com/AmmarrBN'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sig = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://github.com/ImleviOfc'
+global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6'
 global.sdc = '-'
-global.snh = 'https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ'
+global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '087708773367'
-global.ppulsa2 = '088229683561'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '6285172446692'
+global.povo = '6285172446692'
+global.pgopay = '6285172446692'
+global.ppulsa = '6285172446692'
+global.ppulsa2 = '6285172446692'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
-global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nomorbot = '6285172446692'
+global.nomorown = '6281255466600'
+global.namebot = 'lord-bot'
+global.nameown = 'levi'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['6285172446692'],
+  ['6285172446692'],
+  ['6285172446692'],
+  ['6285172446692', 'levi', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6285172446692'] // Want some help?
+global.prems = ['6285172446692','6285172446692'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
